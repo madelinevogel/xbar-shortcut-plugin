@@ -1,7 +1,7 @@
 
 ## Xbar Shortcut Plugin
 
-A plugin for xbar that creates shortcuts, located on my macOS menu bar, to my most used github pages, gmail account, and google drive. It also uses API's to generate a random cat fact, bad insult, and suggestion on what to do if you're bored. Last but not least, there's a link to Merriam Webster's word of the day.
+A plugin for xbar that creates shortcuts located on my macOS menu bar for: my most used github pages, gmail account, and google drive. It also uses API's to generate a random cat fact, bad insult, and suggestion on what to do if you're bored. Last but not least, there's a link to Merriam Webster's word of the day.
 
 - Click on the red pushpin to see the menu.
 <img width="317" alt="xbar-shortcut-1" src="https://user-images.githubusercontent.com/122300510/219167034-8eefe4af-a623-4f6f-9ad7-6bc69dc3f25a.png">
